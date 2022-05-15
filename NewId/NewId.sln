@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewId", "NewId.csproj", "{378A5E03-0D30-47B4-912F-C2E78D7B87EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{554947F9-0F21-4F7E-B1B6-891F6860D2E5}"
+	ProjectSection(SolutionItems) = preProject
+		CreateContainer.bat = CreateContainer.bat
+		Dockerfile = Dockerfile
+		Run.bat = Run.bat
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378A5E03-0D30-47B4-912F-C2E78D7B87EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378A5E03-0D30-47B4-912F-C2E78D7B87EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378A5E03-0D30-47B4-912F-C2E78D7B87EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378A5E03-0D30-47B4-912F-C2E78D7B87EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD10867B-ABA5-48CE-B4ED-CF808516C8D1}
+	EndGlobalSection
+EndGlobal
